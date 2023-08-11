@@ -1,0 +1,4 @@
+git init - inicijalizacija
+git add - fjal prebacujemo u staging
+git commit -m <message - poruka>- kreiranje novog snapshota projekta
+git restore --staged <koji fajl>ssh
